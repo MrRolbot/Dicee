@@ -1,0 +1,31 @@
+body {
+    color: #E2D784;
+    background-color: #05595B;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-size: 6rem;
+}
+
+#big-header {
+    padding: 2%;
+}
+
+.btn {
+    background-color: #950101;
+    color: #E2D784;
+}
+
+.play {
+    color: #E2D784;
+    text-decoration: none;
+}
+
+.dice {
+    display: inline-block;
+    margin: 0% 5% 5%;
+    font-size: 2rem;
+    font-weight: bold;
+}
